@@ -60,7 +60,7 @@
 
 <br>
 
-## 📌 Algorithm
+## 📌 Algorithm 전체 X (니가 알고리즘 문제 풀면서 공부하고 있는 것들로 충분)
 
 - [거품 정렬(Bubble Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC%20(Bubble%20Sort).md#%EA%B1%B0%ED%92%88-%EC%A0%95%EB%A0%AC-bubble-sort)
 - [선택 정렬(Selection Sort)](https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20(Selection%20Sort).md#%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-selection-sort) 
@@ -86,7 +86,7 @@
 
 <br>
 
-## 📌 Computer Science
+## 📌 Computer Science 전체 X 알아두면 코딩을 더 깊게 이해하는데 도움이 되나 우선은 no
 
 - ### Computer Architecture
 
@@ -100,7 +100,7 @@
 
   <br>
 
-- ### Data Structure
+- ### Data Structure 전체 X 이것도 니가 알고리즘 풀면서 학습하는 것으로 충분
 
   - [Array](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array.md)
   - [LinkedList](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Linked%20List.md)
@@ -114,7 +114,7 @@
 
   <br>
 
-- ### Database
+- ### Database 전체 X FE에겐 불필요
 
   - [키(Key) 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDB%5D%20Key.md)
   - [SQL - JOIN](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDatabase%20SQL%5D%20JOIN.md)
@@ -130,51 +130,51 @@
 
 - ### Network
 
-  - [OSI 7 계층](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md)
-  - [TCP 3 way handshake & 4 way handshake](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
-  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
-  - [UDP](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP.md#20190826%EC%9B%94-bym-udp%EB%9E%80)
-  - [대칭키 & 공개키](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
-  - [HTTP & HTTPS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
-  - [로드 밸런싱(Load Balancing)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
-  - [Blocking & Non-Blocking I/O](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%5BNetwork%5D%20Blocking%20Non-Blocking%20IO.md)
+  - [OSI 7 계층](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md) O
+  - [TCP 3 way handshake & 4 way handshake](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md) O
+  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4) X
+  - [UDP](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP.md#20190826%EC%9B%94-bym-udp%EB%9E%80)(이것 보다는 TCP와 UDP의 차이는 알아두는게 좋을 듯)
+  - [대칭키 & 공개키](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md) X
+  - [HTTP & HTTPS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md) O
+  - [로드 밸런싱(Load Balancing)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md) X
+  - [Blocking & Non-Blocking I/O](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%5BNetwork%5D%20Blocking%20Non-Blocking%20IO.md) O
 
   <br>
 
-- ### Operating System
+- ### Operating System 네이버 급에선 전부 O이지만 지금 노리는 레벨로는 프로세스 vs 스레드 외엔 X
 
-  - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Operation%20System.md)
-  - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)
-  - [프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20Address%20Space.md)
-  - [인터럽트(Interrupt)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Interrupt.md)
-  - [시스템 콜(System Call)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md)
-  - [PCB와 Context Switching](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/PCB%20%26%20Context%20Switcing.md)
-  - [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md)
-  - [CPU 스케줄링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/CPU%20Scheduling.md)
-  - [데드락(DeadLock)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/DeadLock.md)
-  - [Race Condition]( https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Race%20Condition.md)
-  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Semaphore%20%26%20Mutex.md)
-  - [페이징 & 세그먼테이션](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.pdf))
-  - [페이지 교체 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Page%20Replacement%20Algorithm.md)
-  - [메모리(Memory)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Memory.md)
-  - [파일 시스템](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/File%20System.md)
-
+  - [운영체제란](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Operation%20System.md) X
+  - [프로세스 vs 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md) O
+  - [프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20Address%20Space.md) X
+  - [인터럽트(Interrupt)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Interrupt.md) X
+  - [시스템 콜(System Call)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/%5BOS%5D%20System%20Call%20(Fork%20Wait%20Exec).md) X
+  - [PCB와 Context Switching](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/PCB%20%26%20Context%20Switcing.md) X
+  - [IPC(Inter Process Communication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md) X
+  - [CPU 스케줄링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/CPU%20Scheduling.md) X
+  - [데드락(DeadLock)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/DeadLock.md) X
+  - [Race Condition]( https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Race%20Condition.md) X
+  - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Semaphore%20%26%20Mutex.md) X
+  - [페이징 & 세그먼테이션](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.md) ([PDF](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Paging%20and%20Segmentation.pdf)) X
+  - [페이지 교체 알고리즘](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Page%20Replacement%20Algorithm.md) X
+  - [메모리(Memory)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Memory.md) X
+  - [파일 시스템](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/File%20System.md) X
+ 
   <br>
 
 - ### Software Engineering
 
-  - [클린코드 & 리팩토링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
-  - [TDD(Test Driven Development)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/TDD(Test%20Driven%20Development).md)
-  - [애자일(Agile) 정리1](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md) / [애자일(Agile) 정리2](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md)
-  - [객체 지향 프로그래밍(Object-Oriented Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Object-Oriented%20Programming.md)
-  - [함수형 프로그래밍(Fuctional Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md)
-  - [데브옵스(DevOps)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
-  - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
+  - [클린코드 & 리팩토링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Clean%20Code%20%26%20Refactoring.md) / [클린코드 & 시큐어코딩](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md) X
+  - [TDD(Test Driven Development)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/TDD(Test%20Driven%20Development).md) X
+  - [애자일(Agile) 정리1](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md) / [애자일(Agile) 정리2](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile)2.md) X
+  - [객체 지향 프로그래밍(Object-Oriented Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Object-Oriented%20Programming.md) O(대략적인 정의 알아둘 것)
+  - [함수형 프로그래밍(Fuctional Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md) X
+  - [데브옵스(DevOps)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md) X
+  - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md) X
   
 
 <br>
 
-## 📌 Design Pattern
+## 📌 Design Pattern 이건 애매함. 나올 수도 있지만 난이도가 있으므로 우선순위 낮춰서 공부
 
 - [디자인패턴 개요(Overview)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/%5BDesign%20Pattern%5D%20Overview.md)
 - [어댑터 패턴](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Adapter%20Pattern.md)
@@ -188,15 +188,15 @@
 
 ## 📌 Interview
 
-- [언어(Java, C++ ... )](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#언어)
-- [운영체제](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#운영체제)
-- [데이터베이스](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#데이터베이스>)
-- [네트워크](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#네트워크)
-- [웹(스프링)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#스프링)
+- [언어(Java, C++ ... )](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#언어) X
+- [운영체제](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#운영체제) X
+- [데이터베이스](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#데이터베이스>) X
+- [네트워크](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#네트워크) X
+- [웹(스프링)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Interview/Interview%20List.md#스프링) X
 
 <br>
 
-## 📌 Language
+## 📌 Language 전체 X
 
 - ### C
 
@@ -211,7 +211,7 @@
   - [[C++] 가상 함수(Virtual Function)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EA%B0%80%EC%83%81%20%ED%95%A8%EC%88%98(virtual%20function).md)
   - [[C++] 입출력 최적화하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%2B%2B%5D%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EC%A4%84%EC%9D%B4%EB%8A%94%20%EB%B2%95.md)
 
-- ### Java
+- ### Java 
 
   - [[Java] Java 컴파일 과정](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
   - [[Java] Call by Value vs Call by Reference](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
@@ -234,20 +234,20 @@
 
 ## 📌 Web
 
-- [브라우저 동작 방법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
-- [쿠키(Cookie) & 세션(Session)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md)
-- [HTTP Status Code](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md)
-- [REST API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md)
-- [웹 서버와 WAS의 차이점](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-- [OAuth](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/OAuth.md)
-- [JWT(JSON Web Token)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md)
-- [Authentication and Authorization](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md)
-- [로그 레벨](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Logging%20Level.md)
-- [UI와 UX](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/UI%EC%99%80%20UX.md)
-- [CSR & SSR](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/CSR%20%26%20SSR.md)
+- [브라우저 동작 방법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md) O
+- [쿠키(Cookie) & 세션(Session)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Cookie%20%26%20Session.md) o
+- [HTTP Status Code](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/HTTP%20status%20code.md) o(기본적인 것만)
+- [REST API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%5BWeb%5D%20REST%20API.md) O(정의 정도만)
+- [웹 서버와 WAS의 차이점](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md) O(정의 정도만)
+- [OAuth](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/OAuth.md) X
+- [JWT(JSON Web Token)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/JWT(JSON%20Web%20Token).md) O(정의 정도만)
+- [Authentication and Authorization](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md) O(정의 정도만)
+- [로그 레벨](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Logging%20Level.md) X
+- [UI와 UX](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/UI%EC%99%80%20UX.md) O(정의 정도만)
+- [CSR & SSR](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/CSR%20%26%20SSR.md) 
 - [Vue.js vs React](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%EC%99%80%20React%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-- [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
-- [PWA(Progressive Web App)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
+- [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md) X
+- [PWA(Progressive Web App)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md) X
 - Vue.js
   - [Vue.js 라이프사이클](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
   - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
@@ -255,12 +255,12 @@
   - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - [Nuxt.js란](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Nuxt.js.md>)
 - React
-  - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
-  - [React Hook](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20Hook.md)
+  - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md) X
+  - [React Hook](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20Hook.md) X
 
 <br>
 
-## 📌 Linux
+## 📌 Linux 전체 X
 
 - [리눅스 기본 명령어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Linux%20Basic%20Command.md)
 - [폰 노이만 구조](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Linux/Von%20Neumann%20Architecture.md)
@@ -268,7 +268,7 @@
 
 <br>
 
-## 📌 New Technology
+## 📌 New Technology 전체 X
 
 - #### AI 
   - [용어 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/New%20Technology/AI/README.md)
@@ -289,7 +289,7 @@
 
 <br>
 
-## 📌 Seminar
+## 📌 Seminar 전체 X
 
 - [2019 NHN OPEN TALK DAY](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Seminar/NHN%202019%20OPEN%20TALK%20DAY.md)
 - [2019 삼성전자 비전캠프](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Seminar/2019%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EB%B9%84%EC%A0%84%EC%BA%A0%ED%94%84.md)
@@ -298,7 +298,7 @@
 
 <br>
 
-## 📌 ETC
+## 📌 ETC 전체 X
 
 - [GitHub Fork로 협업하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20Fork%EB%A1%9C%20%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0.md#github-fork%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
 - [GitHub 저장소(repository) 미러링](https://github.com/gyoogle/tech-interview-for-developer/blob/master/ETC/GitHub%20%EC%A0%80%EC%9E%A5%EC%86%8C(repository)%20%EB%AF%B8%EB%9F%AC%EB%A7%81.md#github-%EC%A0%80%EC%9E%A5%EC%86%8Crepository-%EB%AF%B8%EB%9F%AC%EB%A7%81)
